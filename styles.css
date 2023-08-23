@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+.holder
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+#p3
+{
+	background-color:green;
+	width:90px;
+	height:90px;
+}
+#p1
+{
+	background-color:red;
+	width:90px;
+	height:90px;
+}
+#p2
+{
+	background-color:blue;
+	width:90px;
+	height:90px;
+}
